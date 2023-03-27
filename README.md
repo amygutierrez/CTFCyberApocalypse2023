@@ -4,16 +4,21 @@ _Machine Learning (ML) Write-ups for the Hack the Box Cyber Apocalypse CTF 2023_
 Challenges
 -----------
 
-**Reconfiguration:** Ranked as very easy challenge. --> `reconfiguration.ipynb`
+_Click on the link to go to the Jupyter Notebook code that solved the flag_
 
-**Mysterious Learnings:** Ranked as easy challenge. --> `mysteriuos_learnings.ipynb`
+**Reconfiguration:** Ranked as very easy challenge. --> <a href="https://github.com/amygutierrez/CTFCyberApocalypse2023/blob/main/reconfiguration/reconfiguration.ipynb">reconfiguration.ipynb</a>
 
-**Last Hope:**  Ranked as medium challenge. --> `last-hope.ipynb`
+**Mysterious Learnings:** Ranked as easy challenge. --> <a href="https://github.com/amygutierrez/CTFCyberApocalypse2023/blob/main/mysterious-learnings/mysterious_learnings.ipynb">mysteriuos_learnings.ipynb</a>
 
-**On the Rescue:** Ranked as medium challenge. --> `on-the-rescue.ipynb`
+**Last Hope:**  Ranked as medium challenge. --> <a href="https://github.com/amygutierrez/CTFCyberApocalypse2023/blob/main/last-hope/last-hope.ipynb">last-hope.ipynb</a>
 
-**Vision Chip:** Ranked as medium challenge. --> `challenge.ipynb`
+**On the Rescue:** Ranked as medium challenge. --> <a href="https://github.com/amygutierrez/CTFCyberApocalypse2023/blob/main/on-the-rescue/on-the-rescue.ipynb">on-the-rescue.ipynb</a>
 
+**Vision Chip:** Ranked as medium challenge. --> <a href="https://github.com/amygutierrez/CTFCyberApocalypse2023/blob/main/vision-chip/challenge.ipynb">challenge.ipynb</a>
+
+<br>
+
+_Each folder in this repository corresponds to each Machine Learning CTF Challenge_
 
 Outro
 ------
