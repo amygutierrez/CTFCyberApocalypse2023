@@ -17,7 +17,8 @@ Challenges
 
 Outro
 ------
-I hope you enjoyed this CTF as much as I did! You can find me on the hackthebox Discord as _glockachu_
+I hope you enjoyed this CTF as much as I did! You can find me on the hackthebox Discord as _glockachu_ 
+
 Feel free to contact me for any further explanations on the challenges.
 
 If I get enough requests, I can also upload in depth videos on my thought process behind each challenge. 
