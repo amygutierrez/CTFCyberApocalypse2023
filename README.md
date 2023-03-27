@@ -4,15 +4,15 @@ _Machine Learning (ML) Write-ups for the Hack the Box Cyber Apocalypse CTF 2023_
 Challenges
 -----------
 
-**Reconfiguration:** Ranked as very easy challenge
+**Reconfiguration:** Ranked as very easy challenge. --> `reconfiguration.ipynb`
 
-**Mysterious Learnings:** Ranked as easy challenge
+**Mysterious Learnings:** Ranked as easy challenge. --> `mysteriuos_learnings.ipynb`
 
-**Last Hope:**  Ranked as medium challenge
+**Last Hope:**  Ranked as medium challenge. --> `last-hope.ipynb`
 
-**On the Rescue:** Ranked as medium challenge
+**On the Rescue:** Ranked as medium challenge. --> `on-the-rescue.ipynb`
 
-**Vision Chip:** Ranked as medium challenge
+**Vision Chip:** Ranked as medium challenge. --> `challenge.ipynb`
 
 
 Outro
