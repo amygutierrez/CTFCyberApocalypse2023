@@ -8,11 +8,11 @@ Challenges
 
 **Mysterious Learnings:** Ranked as easy challenge
 
-**Last Hope:**  Ranked as very medium challenge
+**Last Hope:**  Ranked as medium challenge
 
-**On the Rescue:** Ranked as very medium challenge
+**On the Rescue:** Ranked as medium challenge
 
-**Vision Chip:** Ranked as very medium challenge
+**Vision Chip:** Ranked as medium challenge
 
 
 Outro
